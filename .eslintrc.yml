@@ -1,0 +1,17 @@
+env:
+  es6: true
+  jest: true
+  browser: true
+
+extends:
+  - "@equal/eslint-config/typescript-react"
+  - prettier
+  - prettier/@typescript-eslint
+  - prettier/standard
+
+rules:
+  prettier/prettier: error
+
+plugins:
+  - "@typescript-eslint"
+  - prettier

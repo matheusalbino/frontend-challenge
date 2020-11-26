@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+@layer base {
+  html,
+  body,
+  #root {
+    @apply w-full h-full;
+  }
+}
+
+@layer components {
+  .metin2__background {
+    @apply bg-center-top bg-no-repeat bg-primary;
+    background-image: url('../img/metin2-background.jpg');
+  }
+}
