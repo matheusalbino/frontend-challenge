@@ -12,8 +12,12 @@
 }
 
 @layer components {
-  .metin2__background {
-    @apply bg-center-top bg-no-repeat bg-primary;
+  .bg-metin2 {
+    @apply bg-center-top bg-no-repeat bg-primary bg-fixed;
     background-image: url('../img/metin2-background.jpg');
+  }
+
+  .text-shadow-primary-light {
+    text-shadow: 0px 1px #e11924;
   }
 }

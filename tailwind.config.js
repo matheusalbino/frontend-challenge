@@ -4,16 +4,11 @@ module.exports = {
   purge: ['./src/**/*.tsx', './src/**/*.css'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    screens: {
-      sm: '320px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1280px',
-    },
     colors: {
       transparent: 'transparent',
       white: '#ffffff',
       black: '#000000',
+      gray: '#242424',
       primary: {
         default: '#2f0708',
         light: '#e11924',

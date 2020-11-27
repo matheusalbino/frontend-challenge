@@ -7,7 +7,8 @@ export const reactQueryConfig: ReactQueryConfig = {
     retry: false,
     refetchOnWindowFocus: false,
     refetchOnReconnect: false,
-    initialStale: true,
+    refetchOnMount: true,
+    keepPreviousData: false,
   },
   mutations: {},
   shared: {
