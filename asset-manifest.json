@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.de486229.chunk.css",
-    "main.js": "/static/js/main.36263ec2.chunk.js",
-    "main.js.map": "/static/js/main.36263ec2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e16521ad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e16521ad.js.map",
-    "static/js/2.4748dda2.chunk.js": "/static/js/2.4748dda2.chunk.js",
-    "static/js/2.4748dda2.chunk.js.map": "/static/js/2.4748dda2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.de486229.chunk.css.map": "/static/css/main.de486229.chunk.css.map",
-    "static/js/2.4748dda2.chunk.js.LICENSE.txt": "/static/js/2.4748dda2.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/static/media/metin2-background.3cacd7d4.jpg",
-    "static/media/metin2-logo.efe18c5a.png": "/static/media/metin2-logo.efe18c5a.png"
+    "main.css": "/frontend-challenge/static/css/main.f15264d3.chunk.css",
+    "main.js": "/frontend-challenge/static/js/main.36263ec2.chunk.js",
+    "main.js.map": "/frontend-challenge/static/js/main.36263ec2.chunk.js.map",
+    "runtime-main.js": "/frontend-challenge/static/js/runtime-main.00dd8abc.js",
+    "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.00dd8abc.js.map",
+    "static/js/2.4748dda2.chunk.js": "/frontend-challenge/static/js/2.4748dda2.chunk.js",
+    "static/js/2.4748dda2.chunk.js.map": "/frontend-challenge/static/js/2.4748dda2.chunk.js.map",
+    "index.html": "/frontend-challenge/index.html",
+    "static/css/main.f15264d3.chunk.css.map": "/frontend-challenge/static/css/main.f15264d3.chunk.css.map",
+    "static/js/2.4748dda2.chunk.js.LICENSE.txt": "/frontend-challenge/static/js/2.4748dda2.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/frontend-challenge/static/media/metin2-background.3cacd7d4.jpg",
+    "static/media/metin2-logo.efe18c5a.png": "/frontend-challenge/static/media/metin2-logo.efe18c5a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e16521ad.js",
+    "static/js/runtime-main.00dd8abc.js",
     "static/js/2.4748dda2.chunk.js",
-    "static/css/main.de486229.chunk.css",
+    "static/css/main.f15264d3.chunk.css",
     "static/js/main.36263ec2.chunk.js"
   ]
 }
