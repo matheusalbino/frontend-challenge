@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "version": "0.1.0",
+  "name": "metin2-rewards",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@equal/react-logic": "^0.1.1",
